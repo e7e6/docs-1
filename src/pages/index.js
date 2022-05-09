@@ -265,9 +265,7 @@ const Page = () => (
             <IndexCardLink to="/migration_portal/latest">
               Migration Portal
             </IndexCardLink>
-            <IndexCardLink to="/migration_toolkit/latest">
-              Migration Toolkit
-            </IndexCardLink>
+            <IndexCardLink to="/mtk/latest">Migration Toolkit</IndexCardLink>
           </IndexCard>
 
           <IndexCard

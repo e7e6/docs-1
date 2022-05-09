@@ -20,7 +20,7 @@ export const products = {
     name: "Migration Portal",
     iconName: IconNames.EDB_MIGRATION_PORTAL,
   },
-  migration_toolkit: {
+  mtk: {
     name: "Migration Toolkit",
     iconName: IconNames.EDB_MIGRATION_TOOLKIT,
   },
